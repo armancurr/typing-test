@@ -5,8 +5,8 @@ import { jetBrainsMono, funnelSans } from "./fonts";
 export const metadata = {
   title: "Personal website",
   icons: {
-    icon: "/images/converted.ico",
-    shortcut: "/images/converted.ico",
+    icon: "/images/converted.png",
+    shortcut: "/images/converted.png",
   },
   description:
     "Portfolio of Arman Kar, full stack developer and AI enthusiast. Explore web projects, real-time apps, and tech content. Connect on GitHub, LinkedIn, and Twitter.",
